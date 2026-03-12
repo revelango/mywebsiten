@@ -1,0 +1,45 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:black;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav{
+background:#333;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+.services{
+text-align:center;
+padding:30px;
+}
+
+.box{
+background:white;
+margin:15px;
+padding:20px;
+display:inline-block;
+width:200px;
+border-radius:10px;
+box-shadow:0 0 5px gray;
+}
+footer{
+background:black;
+color:white;
+text-align:center;
+padding:10px;
+}
